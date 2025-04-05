@@ -1,0 +1,10 @@
+smolagents
+smolagents[litellm]
+firecrawl-py
+pandas 
+langchain 
+langchain-community 
+sentence-transformers 
+rank_bm25
+spaces
+datasets
