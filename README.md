@@ -2,6 +2,12 @@
 
 ScamShield is a tool designed to help users identify potential online scams and phishing attempts. It leverages AI agents and multiple API integrations to perform comprehensive analysis of suspicious URLs and provide detailed risk assessments.
 
+<br>
+
+![image](https://github.com/user-attachments/assets/e38638ef-ad65-4938-8426-eea8c7ab3617)
+
+<br>
+
 ## Features
 
 - URL analysis with detailed breakdown of characteristics
