@@ -29,7 +29,7 @@ ScamShield is a tool designed to help users identify potential online scams and 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PrathamKumar125/Scam-Shield-Agent.git
    cd multi-agent
    ```
 
