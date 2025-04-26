@@ -34,7 +34,7 @@ class FireCrawlTool(Tool):
         scrape_result = app.scrape_url(website, 
             params={
                 'location': {
-                    'country': 'AU'
+                    'country': 'IN'
                 }
             }
         )
