@@ -21,7 +21,7 @@ ScamShield is a tool designed to help users identify potential online scams and 
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - Hugging Face API key
 - FireCrawl API key
 
